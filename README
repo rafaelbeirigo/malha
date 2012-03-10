@@ -1,0 +1,6 @@
+This program creates grids to be used in MITSIMLab (http://mit.edu/its/mitsimlab.html).
+
+- Installation
+Just compile malha.c
+
+If you need more information, please contact me: rafaelbeirigo at usp dot br
